@@ -1,5 +1,5 @@
-#Projeto de Modelagem de Dados de um E-commerce
-#DIO
+# Projeto de Modelagem de Dados de um E-commerce
+# DIO
 
 Refinamento do modelo apresentado em aula
 
